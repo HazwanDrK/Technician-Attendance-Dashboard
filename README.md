@@ -30,3 +30,4 @@ Created a Power BI dashboard to track attendance, highlight trends, and provide 
 Data has been anonymized to protect confidentiality.
 
 ## Screenshots
+![Dashboard Overview](DASHBOARD_OVERVIEW.png)
