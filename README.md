@@ -10,24 +10,26 @@ Tracking attendance and maintenance manually made it difficult to spot patterns,
 Created a Power BI dashboard to track attendance, highlight trends, and provide an easy-to-understand view for management. Used Power Automate to set up notifications and automate reporting where possible.
 
 ## Tools Used
-1. Excel
-2. Power BI
-3. Power Query
-4. Power Automate
+- Excel
+- Power BI
+- Power Query
+- Power Automate
 
 ## Key Features
-1. Overview of attendance by technician and date
-2. Trend analysis for absenteeism
-3. Summary charts for quick insights
-4. Automated notifications for attendance follow-ups
+- Overview of attendance by technician and date
+- Trend analysis for absenteeism
+- Summary charts for quick insights
+- Automated notifications for attendance follow-ups
 
 ## Impact
-1. Improved visibility on workforce attendance
-2. Supported better planning and resource allocation
-3. Increased accountability through transparent reporting
+- Improved visibility on workforce attendance
+- Supported better planning and resource allocation
+- Increased accountability through transparent reporting
 
 ## Note
 Data has been anonymized to protect confidentiality.
 
 ## Screenshots
-![Dashboard Overview](DASHBOARD_OVERVIEW.png)
+
+### Power BI Attendance Dashboard
+<img src="DASHBOARD_OVERVIEW.png" alt="Power BI dashboard showing technician attendance trends" width="600">
